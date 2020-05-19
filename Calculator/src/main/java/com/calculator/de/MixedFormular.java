@@ -2,18 +2,29 @@ package com.calculator.de;
 
 public class MixedFormular extends Formular_A {
 
-	private double element1;
-	private Formular_I element2;
-	
-	public MixedFormular(double element1, Formular_I element2, Operation_I operation) {
-		super(operation);
-		this.element1 = element1;
-		this.element2 = element2;
+	private boolean firstElementFormular = true;
+	private double primitivElement;
+	private Formular_I formularElement;
+
+	public MixedFormular(double primitivElement, Formular_I formularElement, Operation_I operation, IndexCouple indexCouple) {
+		this(primitivElement, formularElement, operation, true, indexCouple);
+	}
+
+	public MixedFormular(double primitivElement, Formular_I formularElement, Operation_I operation, boolean firstElementFormular, IndexCouple indexCouple) {
+		super(operation, indexCouple);
+		this.primitivElement = primitivElement;
+		this.formularElement = formularElement;
+		this.firstElementFormular = firstElementFormular;
+	}
+
+	@Override
+	public double calculate() {
+		return firstElementFormular ? operation.calculate(formularElement.calculate(), primitivElement) : operation.calculate(primitivElement, formularElement.calculate());
 	}
 	
 	@Override
-	public double calculate() {
-		return operation.calculate(element1, element2.calculate());
+	public String toString() {
+		return this.primitivElement + "; " + this.formularElement.toString();
 	}
 
 }

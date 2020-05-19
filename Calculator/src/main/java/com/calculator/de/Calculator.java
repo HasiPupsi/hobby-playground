@@ -6,7 +6,28 @@ import java.util.Map;
 public class Calculator {
 
 	public enum OPERATOR {
-		ADD, MINUS, MULTIPLY, DIVIDE;
+		ADD('+'), MINUS('-'), MULTIPLY('*'), DIVIDE('/');
+
+		private char value;
+
+		private OPERATOR(char value) {
+			this.value = value;
+		}
+
+		public char getValue() {
+			return value;
+		}
+
+		public static OPERATOR getOperator(char value) {
+			OPERATOR result = null;
+			for (OPERATOR operator : values()) {
+				if (operator.getValue() == value) {
+					result = operator;
+					break;
+				}
+			}
+			return result;
+		}
 	}
 
 	private Map<OPERATOR, Operation_I> operationMap = new HashMap<OPERATOR, Operation_I>();
