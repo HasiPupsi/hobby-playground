@@ -1,21 +1,36 @@
 package com.calculator.de;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Map;
 
 public class Calculator {
 
 	public enum OPERATOR {
-		ADD('+'), MINUS('-'), MULTIPLY('*'), DIVIDE('/');
+		ADD('+', "\\+", 1), MINUS('-', "-", 1), MULTIPLY('*', "\\*", 2), DIVIDE('/', "/", 2);
 
 		private char value;
+		private String regexValue;
+		private Integer priority;
 
-		private OPERATOR(char value) {
+		private OPERATOR(char value, String regexValue, int priority) {
 			this.value = value;
+			this.regexValue = regexValue;
+			this.priority = priority;
 		}
 
 		public char getValue() {
 			return value;
+		}
+
+		public String getRegexValue() {
+			return regexValue;
+		}
+
+		public int getPriority() {
+			return priority;
 		}
 
 		public static OPERATOR getOperator(char value) {
@@ -66,6 +81,17 @@ public class Calculator {
 
 	public Operation_I getOperation(OPERATOR operator) {
 		return operationMap.get(operator);
+	}
+
+	public List<OPERATOR> getOperators(boolean sortedPriority) {
+		List<OPERATOR> result = null;
+		if (sortedPriority) {
+			result = new LinkedList<Calculator.OPERATOR>(Arrays.asList(OPERATOR.values()));
+			result.sort((OPERATOR o1, OPERATOR o2) -> o1.priority.compareTo(o2.priority));
+		} else {
+			result = new LinkedList<Calculator.OPERATOR>(Arrays.asList(OPERATOR.values()));
+		}
+		return result;
 	}
 
 }

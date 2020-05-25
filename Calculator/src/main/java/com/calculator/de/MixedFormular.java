@@ -6,12 +6,12 @@ public class MixedFormular extends Formular_A {
 	private double primitivElement;
 	private Formular_I formularElement;
 
-	public MixedFormular(double primitivElement, Formular_I formularElement, Operation_I operation, IndexCouple indexCouple) {
-		this(primitivElement, formularElement, operation, true, indexCouple);
+	public MixedFormular(double primitivElement, Formular_I formularElement, Operation_I operation) {
+		this(primitivElement, formularElement, operation, true);
 	}
 
-	public MixedFormular(double primitivElement, Formular_I formularElement, Operation_I operation, boolean firstElementFormular, IndexCouple indexCouple) {
-		super(operation, indexCouple);
+	public MixedFormular(double primitivElement, Formular_I formularElement, Operation_I operation, boolean firstElementFormular) {
+		super(operation);
 		this.primitivElement = primitivElement;
 		this.formularElement = formularElement;
 		this.firstElementFormular = firstElementFormular;
