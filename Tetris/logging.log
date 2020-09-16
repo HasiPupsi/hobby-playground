@@ -1,0 +1,79 @@
+2020-09-11 16:17:13 DEBUG Starter:26 - Testnachricht
+2020-09-11 16:17:13 WARN  Starter:27 - Testnachricht
+2020-09-11 16:17:13 INFO  Starter:28 - Testnachricht
+2020-09-11 16:25:05 INFO  Starter:26 - #####################################
+2020-09-11 16:25:05 INFO  Starter:27 - Starte Tetris
+2020-09-11 16:25:06 INFO  Starter:32 - Lade Beans....
+2020-09-11 16:25:06 INFO  Starter:39 - Lade SpielLayout...
+2020-09-11 16:25:06 INFO  Starter:42 - Initialisierunge GameController...
+2020-09-11 16:25:06 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-11 16:25:06 INFO  Starter:52 - #####################################
+2020-09-11 16:25:46.730 INFO  Starter:26 - #####################################
+2020-09-11 16:25:46.732 INFO  Starter:27 - Starte Tetris
+2020-09-11 16:25:47.235 INFO  Starter:32 - Lade Beans....
+2020-09-11 16:25:47.268 INFO  Starter:39 - Lade SpielLayout...
+2020-09-11 16:25:47.272 INFO  Starter:42 - Initialisierunge GameController...
+2020-09-11 16:25:47.456 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-11 16:25:47.456 INFO  Starter:52 - #####################################
+2020-09-11 16:26:07.107 INFO  Starter:26 - #####################################
+2020-09-11 16:26:07.109 INFO  Starter:27 - Starte Tetris
+2020-09-11 16:26:07.629 INFO  Starter:32 - Lade Beans....
+2020-09-11 16:26:07.663 INFO  Starter:39 - Lade SpielLayout...
+2020-09-11 16:26:07.667 INFO  Starter:42 - Initialisierunge GameController...
+2020-09-11 16:26:07.854 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-11 16:26:07.855 INFO  Starter:52 - #####################################
+2020-09-11 16:26:52.120 INFO  Starter:26 - #####################################
+2020-09-11 16:26:52.123 INFO  Starter:27 - Starte Tetris
+2020-09-11 16:26:52.124 INFO  Starter:28 - Erstelle Context...
+2020-09-11 16:26:52.618 INFO  Starter:33 - Lade Beans....
+2020-09-11 16:26:52.653 INFO  Starter:40 - Lade SpielLayout...
+2020-09-11 16:26:52.656 INFO  Starter:43 - Initialisierunge GameController...
+2020-09-11 16:26:52.853 INFO  Starter:52 - Spiel erfolgreich gestartet.
+2020-09-11 16:26:52.854 INFO  Starter:53 - #####################################
+2020-09-11 16:44:44.519 INFO  Starter:26 - #####################################
+2020-09-11 16:44:44.521 INFO  Starter:27 - Starte Tetris
+2020-09-11 16:44:44.523 INFO  Starter:28 - Erstelle Context...
+2020-09-11 16:44:44.952 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-11 16:44:44.952 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-11 16:44:44.973 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-11 16:44:44.975 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-11 16:44:45.101 INFO  Starter:33 - Lade Beans....
+2020-09-11 16:44:45.137 INFO  Starter:40 - Lade Spiellayout...
+2020-09-11 16:44:45.141 INFO  Starter:43 - Initialisierunge Gamecontroller...
+2020-09-11 16:44:45.343 INFO  Starter:52 - Spiel erfolgreich gestartet.
+2020-09-11 16:44:45.343 INFO  Starter:53 - #####################################
+2020-09-11 16:45:25.840 INFO  Starter:26 - #####################################
+2020-09-11 16:45:25.842 INFO  Starter:27 - Starte Tetris
+2020-09-11 16:45:25.844 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-11 16:45:26.265 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-11 16:45:26.266 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-11 16:45:26.293 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-11 16:45:26.294 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-11 16:45:26.520 INFO  Starter:39 - Lade Spiellayout...
+2020-09-11 16:45:26.527 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-11 16:45:26.789 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-11 16:45:26.789 INFO  Starter:52 - #####################################
+2020-09-11 16:45:29.980 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-11 16:45:29.980 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-11 16:45:29.981 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-11 16:45:29.983 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-11 16:45:34.947 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-11 16:45:34.949 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-11 16:45:34.950 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-11 16:45:34.950 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-11 16:45:45.222 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-11 16:45:45.261 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-11 16:45:45.262 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-11 16:45:45.262 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-11 16:45:45.263 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-11 17:01:42.578 INFO  Starter:26 - #####################################
+2020-09-11 17:01:42.581 INFO  Starter:27 - Starte Tetris
+2020-09-11 17:01:42.583 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-11 17:01:42.968 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-11 17:01:42.968 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-11 17:01:42.993 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-11 17:01:42.994 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-11 17:01:43.146 INFO  Starter:39 - Lade Spiellayout...
+2020-09-11 17:01:43.150 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-11 17:01:43.350 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-11 17:01:43.351 INFO  Starter:52 - #####################################
