@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+ 
+<Pane fx:controller="com.tetris.de.controller.Controller" xmlns:fx="http://javafx.com/fxml/1">
+	<!-- width bzw. height + strokewidth = totalwidht bzw. totalheight (19 + 1 = 20) -->
+	<children>
+		<!-- Shape L -->
+		<Rectangle fx:id="firstRectangle" x="100" y="100" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="100" y="80" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="100" y="60" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="120" y="100" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<!-- Shape I -->
+		<Rectangle x="150" y="100" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="150" y="80" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="150" y="60" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="150" y="40" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<!-- Shape S -->
+		<Rectangle x="180" y="100" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="200" y="100" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="200" y="80" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="220" y="80" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<!-- Shape Z -->
+		<Rectangle x="250" y="100" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="270" y="100" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="270" y="120" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="290" y="120" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<!-- Shape HalfPlus -->
+		<Rectangle x="100" y="160" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="120" y="160" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="120" y="140" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="140" y="160" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<!-- Shape L inverted -->
+		<Rectangle x="170" y="240" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="190" y="240" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="190" y="220" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="190" y="200" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<!-- Shape Block -->
+		<Rectangle x="220" y="180" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="220" y="160" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="240" y="180" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+		<Rectangle x="240" y="160" width="19" height="19" fill="#FFFF00" stroke="#000000" strokeWidth="1"/>
+	</children>
+</Pane>

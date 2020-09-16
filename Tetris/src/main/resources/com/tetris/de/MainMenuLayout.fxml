@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="10.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.tetris.de.controller.MainMenuLayoutController">
+   <children>
+      <Button mnemonicParsing="false" onAction="#startButtonPushed" prefWidth="100.0" text="Spiel starten">
+         <effect>
+            <Glow />
+         </effect>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#optionenButtonPushed" prefWidth="100.0" text="Optionen" />
+      <Button mnemonicParsing="false" onAction="#beendenButtonPushed" prefWidth="100.0" text="Beenden" />
+   </children>
+</VBox>
