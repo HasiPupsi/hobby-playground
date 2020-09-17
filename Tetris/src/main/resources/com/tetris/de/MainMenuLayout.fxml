@@ -16,6 +16,6 @@
          </effect>
       </Button>
       <Button mnemonicParsing="false" onAction="#optionenButtonPushed" prefWidth="100.0" text="Optionen" />
-      <Button mnemonicParsing="false" onAction="#beendenButtonPushed" prefWidth="100.0" text="Beenden" />
+      <Button fx:id="closeBtn" mnemonicParsing="false" onAction="#beendenButtonPushed" prefWidth="100.0" text="Beenden" />
    </children>
 </VBox>

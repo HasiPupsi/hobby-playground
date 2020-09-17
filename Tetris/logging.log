@@ -77,3 +77,494 @@
 2020-09-11 17:01:43.150 INFO  Starter:42 - Initialisierunge Gamecontroller...
 2020-09-11 17:01:43.350 INFO  Starter:51 - Spiel erfolgreich gestartet.
 2020-09-11 17:01:43.351 INFO  Starter:52 - #####################################
+2020-09-16 11:07:32.874 INFO  Starter:26 - #####################################
+2020-09-16 11:07:32.876 INFO  Starter:27 - Starte Tetris
+2020-09-16 11:07:32.877 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-16 11:07:33.124 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:33.124 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:33.150 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:33.152 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:07:33.276 INFO  Starter:39 - Lade Spiellayout...
+2020-09-16 11:07:33.279 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-16 11:07:33.424 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-16 11:07:33.424 INFO  Starter:52 - #####################################
+2020-09-16 11:07:41.522 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:41.522 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:41.523 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:41.523 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:07:45.12 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:07:45.38 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:45.38 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:45.39 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:45.39 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:07:49.674 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:07:49.698 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:49.699 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:49.699 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:49.700 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:07:52.197 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:07:52.218 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:52.218 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:52.219 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:52.219 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:07:53.544 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:07:53.563 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:53.563 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:53.564 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:53.564 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:07:55.402 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:07:55.420 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:55.421 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:55.421 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:55.422 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:07:57.120 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:07:57.137 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:07:57.137 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:07:57.137 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:07:57.138 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:08:00.281 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:08:00.282 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:08:00.282 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:08:00.282 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:13:19.379 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:13:19.381 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:13:19.382 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:13:19.382 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:13:19.391 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:13:19.391 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:13:19.391 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:13:19.392 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:13:19.400 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:13:19.401 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:13:19.402 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:13:19.402 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:13:19.410 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:13:19.410 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:13:19.411 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:13:19.411 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:15:09.197 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:15:09.198 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:15:09.199 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:15:09.200 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:15:09.208 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:15:09.209 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:15:09.209 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:15:09.210 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:15:09.223 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:15:09.223 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:15:09.223 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:15:09.224 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:15:09.229 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:15:09.230 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:15:09.230 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:15:09.230 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:17:53.220 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:17:53.222 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:17:53.222 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:17:53.223 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:17:53.231 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:17:53.231 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:17:53.232 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:17:53.232 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:17:53.245 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:17:53.246 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:17:53.246 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:17:53.247 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:17:53.253 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:17:53.253 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:17:53.253 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:17:53.254 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:18:00.885 INFO  Starter:26 - #####################################
+2020-09-16 11:18:00.887 INFO  Starter:27 - Starte Tetris
+2020-09-16 11:18:00.888 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-16 11:18:01.125 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:18:01.125 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:18:01.153 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:18:01.154 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:18:01.279 INFO  Starter:39 - Lade Spiellayout...
+2020-09-16 11:18:01.281 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-16 11:18:01.419 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-16 11:18:01.420 INFO  Starter:52 - #####################################
+2020-09-16 11:22:04.817 INFO  Starter:26 - #####################################
+2020-09-16 11:22:04.819 INFO  Starter:27 - Starte Tetris
+2020-09-16 11:22:04.819 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-16 11:22:05.74 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:22:05.74 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:22:05.99 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:22:05.101 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:22:05.221 INFO  Starter:39 - Lade Spiellayout...
+2020-09-16 11:22:05.223 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-16 11:22:05.360 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-16 11:22:05.360 INFO  Starter:52 - #####################################
+2020-09-16 11:22:09.710 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:22:09.710 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:22:09.710 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:22:09.711 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:22:14.907 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:22:14.938 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:22:14.938 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:22:14.938 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:22:14.940 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:22:18.274 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:22:18.300 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:22:18.301 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:22:18.301 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:22:18.302 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:22:21.978 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:22:22.2 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:22:22.2 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:22:22.3 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:22:22.3 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:22:34.394 INFO  Starter:26 - #####################################
+2020-09-16 11:22:34.396 INFO  Starter:27 - Starte Tetris
+2020-09-16 11:22:34.397 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-16 11:22:34.651 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:22:34.652 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:22:34.676 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:22:34.678 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:22:34.799 INFO  Starter:39 - Lade Spiellayout...
+2020-09-16 11:22:34.801 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-16 11:22:34.935 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-16 11:22:34.935 INFO  Starter:52 - #####################################
+2020-09-16 11:22:36.512 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:22:36.513 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:22:36.513 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:22:36.514 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:23:59.40 INFO  Starter:26 - #####################################
+2020-09-16 11:23:59.42 INFO  Starter:27 - Starte Tetris
+2020-09-16 11:23:59.42 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-16 11:23:59.302 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:23:59.302 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:23:59.327 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:23:59.329 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:23:59.446 INFO  Starter:39 - Lade Spiellayout...
+2020-09-16 11:23:59.449 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-16 11:23:59.581 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-16 11:23:59.581 INFO  Starter:52 - #####################################
+2020-09-16 11:24:47.530 INFO  Starter:26 - #####################################
+2020-09-16 11:24:47.532 INFO  Starter:27 - Starte Tetris
+2020-09-16 11:24:47.533 INFO  Starter:28 - Erstelle Context und Beans...
+2020-09-16 11:24:47.795 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-16 11:24:47.796 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-16 11:24:47.821 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-16 11:24:47.822 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-16 11:24:47.941 INFO  Starter:39 - Lade Spiellayout...
+2020-09-16 11:24:47.944 INFO  Starter:42 - Initialisierunge Gamecontroller...
+2020-09-16 11:24:48.82 INFO  Starter:51 - Spiel erfolgreich gestartet.
+2020-09-16 11:24:48.83 INFO  Starter:52 - #####################################
+2020-09-16 11:24:53.478 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:24:57.801 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:01.530 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:03.491 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:10.962 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:14.110 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:16.538 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:19.290 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:26.186 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-16 11:25:36.358 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 10:39:00.787 INFO  Starter:23 - #####################################
+2020-09-17 10:39:00.789 INFO  Starter:24 - Starte Tetris
+2020-09-17 10:39:00.789 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 10:39:01.54 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:39:01.54 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:39:01.79 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:39:01.81 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:39:01.347 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 10:39:01.348 INFO  Starter:40 - #####################################
+2020-09-17 10:39:04.616 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:39:04.617 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:39:04.617 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:39:04.618 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:44:35.695 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:44:35.697 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:44:35.698 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:44:35.700 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:44:35.712 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:44:35.712 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:44:35.713 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:44:35.713 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:44:35.729 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:44:35.729 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:44:35.729 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:44:35.730 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:44:35.736 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:44:35.736 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:44:35.737 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:44:35.737 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:46:56.835 INFO  Starter:23 - #####################################
+2020-09-17 10:46:56.837 INFO  Starter:24 - Starte Tetris
+2020-09-17 10:46:56.838 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 10:46:57.103 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:46:57.103 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:46:57.128 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:46:57.129 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:46:57.392 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 10:46:57.393 INFO  Starter:40 - #####################################
+2020-09-17 10:46:58.899 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:46:58.899 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:46:58.900 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:46:58.900 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:48:25.871 INFO  Starter:23 - #####################################
+2020-09-17 10:48:25.874 INFO  Starter:24 - Starte Tetris
+2020-09-17 10:48:25.874 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 10:48:26.154 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:48:26.155 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:48:26.180 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:48:26.181 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:48:26.437 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 10:48:26.438 INFO  Starter:40 - #####################################
+2020-09-17 10:49:18.553 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:49:18.553 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:49:18.554 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:49:18.555 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:49:33.83 INFO  Starter:23 - #####################################
+2020-09-17 10:49:33.85 INFO  Starter:24 - Starte Tetris
+2020-09-17 10:49:33.85 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 10:49:33.356 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:49:33.356 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:49:33.382 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:49:33.383 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:49:33.646 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 10:49:33.647 INFO  Starter:40 - #####################################
+2020-09-17 10:49:34.965 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:49:34.965 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:49:34.966 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:49:34.967 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:49:53.246 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:49:53.247 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:49:53.248 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:49:53.249 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:49:53.260 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:49:53.260 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:49:53.261 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:49:53.261 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:49:53.275 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:49:53.275 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:49:53.275 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:49:53.276 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:49:53.282 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:49:53.282 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:49:53.283 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:49:53.283 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:51:04.377 INFO  Starter:23 - #####################################
+2020-09-17 10:51:04.379 INFO  Starter:24 - Starte Tetris
+2020-09-17 10:51:04.379 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 10:51:04.656 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:51:04.656 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:51:04.682 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:51:04.684 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:51:04.937 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 10:51:04.937 INFO  Starter:40 - #####################################
+2020-09-17 10:51:08.158 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:51:08.158 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:51:08.159 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:51:08.160 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:52:06.505 INFO  Starter:23 - #####################################
+2020-09-17 10:52:06.507 INFO  Starter:24 - Starte Tetris
+2020-09-17 10:52:06.508 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 10:52:06.772 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:52:06.772 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:52:06.798 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:52:06.800 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:52:07.51 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 10:52:07.51 INFO  Starter:40 - #####################################
+2020-09-17 10:52:09.608 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:52:09.609 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:52:09.610 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:52:09.610 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:59:46.638 INFO  Starter:23 - #####################################
+2020-09-17 10:59:46.640 INFO  Starter:24 - Starte Tetris
+2020-09-17 10:59:46.640 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 10:59:46.899 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 10:59:46.900 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 10:59:46.925 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 10:59:46.927 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 10:59:47.171 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 10:59:47.171 INFO  Starter:40 - #####################################
+2020-09-17 11:00:26.198 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:00:26.199 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:00:26.199 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:00:26.200 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:04:59.447 INFO  Starter:23 - #####################################
+2020-09-17 11:04:59.449 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:04:59.449 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:04:59.708 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:04:59.708 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:04:59.733 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:04:59.734 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:04:59.970 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:04:59.970 INFO  Starter:40 - #####################################
+2020-09-17 11:05:01.633 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:05:01.633 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:05:01.634 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:05:01.635 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:05:32.307 INFO  Starter:23 - #####################################
+2020-09-17 11:05:32.309 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:05:32.310 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:05:32.572 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:05:32.572 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:05:32.597 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:05:32.599 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:05:32.845 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:05:32.845 INFO  Starter:40 - #####################################
+2020-09-17 11:05:38.184 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:05:38.185 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:05:38.185 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:05:38.186 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:05:56.484 INFO  Starter:23 - #####################################
+2020-09-17 11:05:56.486 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:05:56.486 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:05:56.750 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:05:56.750 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:05:56.777 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:05:56.779 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:05:57.17 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:05:57.17 INFO  Starter:40 - #####################################
+2020-09-17 11:06:04.661 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:06:04.662 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:06:04.663 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:06:04.663 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:06:49.336 INFO  Starter:23 - #####################################
+2020-09-17 11:06:49.338 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:06:49.339 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:06:49.597 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:06:49.598 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:06:49.623 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:06:49.625 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:06:49.871 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:06:49.871 INFO  Starter:40 - #####################################
+2020-09-17 11:06:56.697 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:06:56.698 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:06:56.698 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:06:56.699 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:08:02.66 INFO  Starter:23 - #####################################
+2020-09-17 11:08:02.68 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:08:02.68 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:08:02.323 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:08:02.323 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:08:02.350 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:08:02.351 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:08:02.595 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:08:02.595 INFO  Starter:40 - #####################################
+2020-09-17 11:08:16.203 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:08:16.203 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:08:16.204 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:08:16.205 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:08:43.932 INFO  Starter:23 - #####################################
+2020-09-17 11:08:43.934 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:08:43.935 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:08:44.195 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:08:44.195 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:08:44.219 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:08:44.221 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:08:44.471 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:08:44.471 INFO  Starter:40 - #####################################
+2020-09-17 11:08:48.151 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:08:48.151 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:08:48.152 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:08:48.152 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:09:22.711 INFO  Starter:23 - #####################################
+2020-09-17 11:09:22.713 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:09:22.713 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:09:22.974 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:09:22.974 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:09:23.0 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:09:23.2 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:09:23.248 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:09:23.248 INFO  Starter:40 - #####################################
+2020-09-17 11:09:24.521 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:09:24.522 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:09:24.523 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:09:24.523 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:09:40.706 INFO  Starter:23 - #####################################
+2020-09-17 11:09:40.708 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:09:40.709 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:09:40.974 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:09:40.974 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:09:40.999 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:09:41.1 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:09:41.245 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:09:41.245 INFO  Starter:40 - #####################################
+2020-09-17 11:09:50.311 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:09:50.312 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:09:50.312 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:09:50.313 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:10:08.741 INFO  Starter:23 - #####################################
+2020-09-17 11:10:08.743 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:10:08.744 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:10:09.21 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:10:09.21 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:10:09.46 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:10:09.48 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:10:09.291 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:10:09.291 INFO  Starter:40 - #####################################
+2020-09-17 11:10:10.383 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:10:10.383 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:10:10.384 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:10:10.385 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:10:10.404 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-17 11:10:10.407 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-17 11:10:10.426 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-17 11:10:10.427 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-17 11:10:21.628 INFO  Starter:23 - #####################################
+2020-09-17 11:10:21.630 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:10:21.630 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:10:21.889 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:10:21.889 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:10:21.914 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:10:21.915 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:10:22.158 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:10:22.159 INFO  Starter:40 - #####################################
+2020-09-17 11:10:40.935 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:10:40.936 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:10:40.936 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:10:40.937 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:10:40.958 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-17 11:10:40.960 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-17 11:10:40.979 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-17 11:10:40.980 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-17 11:10:50.823 INFO  Starter:23 - #####################################
+2020-09-17 11:10:50.825 INFO  Starter:24 - Starte Tetris
+2020-09-17 11:10:50.825 INFO  Starter:25 - Erstelle Context und Beans...
+2020-09-17 11:10:51.84 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:10:51.85 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:10:51.109 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:10:51.111 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:10:51.352 INFO  Starter:39 - Spiel erfolgreich gestartet.
+2020-09-17 11:10:51.353 INFO  Starter:40 - #####################################
+2020-09-17 11:11:57.529 INFO  Starter:22 - #####################################
+2020-09-17 11:11:57.531 INFO  Starter:23 - Starte Tetris
+2020-09-17 11:11:57.532 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-17 11:11:57.798 INFO  Starter:39 - #####################################
+2020-09-17 11:13:06.205 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-17 11:13:06.205 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-17 11:13:06.207 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-17 11:13:06.208 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-17 11:13:06.238 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-17 11:13:06.240 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-17 11:13:06.257 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-17 11:13:06.257 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-17 11:13:34.256 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:37.6 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:39.308 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:40.729 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:42.517 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:46.334 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:48.629 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:50.966 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:13:56.324 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:01.814 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:07.371 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:10.157 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:12.508 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:15.428 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:17.38 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:20.156 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:22.388 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:24.481 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:26.57 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:28.56 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-17 11:14:45.580 INFO  Starter:22 - #####################################
+2020-09-17 11:14:45.583 INFO  Starter:23 - Starte Tetris
+2020-09-17 11:14:45.583 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-17 11:14:45.861 INFO  Starter:39 - #####################################

@@ -9,10 +9,10 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.tetris.de.Block_I;
 import com.tetris.de.Blockline;
-import com.tetris.de.DataModel;
 import com.tetris.de.FieldGrid;
 import com.tetris.de.TetrisStone;
 import com.tetris.de.handler.CollisionHandler;
+import com.tetris.de.model.GameDataModel;
 import com.tetris.de.state.BottomState;
 import com.tetris.de.state.LeftState;
 import com.tetris.de.state.RightState;
@@ -40,14 +40,12 @@ public class GameLayoutController implements EventHandler<KeyEvent> {
 	@FXML
 	private Pane bodyPane;
 
-	private DataModel dataModel;
+	private GameDataModel dataModel;
 	private DoubleProperty x = new SimpleDoubleProperty(0);
 	private DoubleProperty y = new SimpleDoubleProperty(0);
 	private IntegerProperty points = new SimpleIntegerProperty(0);
 
-	private ClassPathXmlApplicationContext ctx;
-
-	public void init(DataModel dataModel) {
+	public void init(GameDataModel dataModel) {
 		this.dataModel = dataModel;
 		this.bodyPane.setPrefWidth(this.dataModel.getGameConfig().getGameWidth());
 		this.leftPane.setPrefWidth((((Pane) this.bodyPane.getParent()).getPrefWidth() - this.bodyPane.getPrefWidth()) / 2);
@@ -86,7 +84,7 @@ public class GameLayoutController implements EventHandler<KeyEvent> {
 	}
 
 	private void addNewStone() {
-		try (ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("com/tetris/de/TetrisConfig.xml")) {
+		try (ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("com/tetris/de/TetrisStones.xml")) {
 			TetrisStone stone = createNewTetrisStone(ctx);
 			stone.getBlockList().forEach(block -> {
 				bodyPane.getChildren().add(block.getPolygon());
@@ -144,25 +142,25 @@ public class GameLayoutController implements EventHandler<KeyEvent> {
 			TetrisStone currentStone = currentStoneOpt.get();
 			Set<Blockline> collisionLinesFromCurrentStone = CollisionHandler.getInstance().isCollisionDetected(this.dataModel.getAllTetrisStoneInGame(), currentStone);
 			switch (event.getCode()) {
-				case RIGHT:
-					handleRightKey(collisionLinesFromCurrentStone, currentStone, stoneSize);
-					break;
-				case LEFT:
-					handleLeftKey(collisionLinesFromCurrentStone, currentStone, stoneSize);
-					break;
-				case DOWN:
-					doUpdate = handleDownKey(currentStone, stoneSize);
-					break;
-				case SPACE:
-					handleSpaceKey(this.dataModel.getAllTetrisStoneInGame(), currentStone, this.dataModel.getGameConfig().getGameWidth());
-					break;
-				case ENTER:
-					// Creates new stone
-					addNewStone();
-					break;
-				default:
-					// Do nothing
-					break;
+			case RIGHT:
+				handleRightKey(collisionLinesFromCurrentStone, currentStone, stoneSize);
+				break;
+			case LEFT:
+				handleLeftKey(collisionLinesFromCurrentStone, currentStone, stoneSize);
+				break;
+			case DOWN:
+				doUpdate = handleDownKey(currentStone, stoneSize);
+				break;
+			case SPACE:
+				handleSpaceKey(this.dataModel.getAllTetrisStoneInGame(), currentStone, this.dataModel.getGameConfig().getGameWidth());
+				break;
+			case ENTER:
+				// Creates new stone
+				addNewStone();
+				break;
+			default:
+				// Do nothing
+				break;
 			}
 			if (doUpdate) {
 				update();

@@ -6,7 +6,7 @@ import org.apache.log4j.Logger;
 
 public class PointHandler {
 
-	private static final Logger logger = Logger.getLogger(PointHandler.class);
+	private final Logger logger = Logger.getLogger(PointHandler.class);
 
 	private Map<Integer, Integer> pointsForNumberOfLines;
 	private double points;

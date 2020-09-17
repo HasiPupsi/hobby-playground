@@ -10,3 +10,4 @@ DONE Volle Lines entfernen -> alle Blöcke entfernen, von den vollen Lines und au
 DONE Rotation integrieren mit "Space"-Taste rotieren und Rotationspunkt in Spring Beans xml veränderbar
 DONE logging
 Tetrissteine in eine extra Config-XML packen -> da sonst beim erstellen eines neuen Steins immer auch alle anderen Beans unnötigerweise neu geladen werden
+JUNIT 4 zu JUNIT 5 umstellen
