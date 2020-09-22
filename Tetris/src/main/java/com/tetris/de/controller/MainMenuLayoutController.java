@@ -19,21 +19,12 @@ import javafx.stage.Stage;
 public class MainMenuLayoutController {
 
 	private Logger logger = Logger.getLogger(MainMenuLayoutController.class);
-//	private MainDataModel dataModel;
 
 	@FXML
 	private Button closeBtn;
 
-	public MainMenuLayoutController() {
-	}
-
-//	public void initModel(MainDataModel dataModel) {
-//		this.dataModel = dataModel;
-//	}
-
 	@FXML
 	public void startButtonPushed() {
-		System.out.println("Start");
 		try (ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("com/tetris/de/TetrisConfig.xml")) {
 			FXMLLoader loader = new FXMLLoader(getClass().getResource("../GameLayout.fxml"));
 			Pane root = loader.load();
@@ -60,7 +51,6 @@ public class MainMenuLayoutController {
 
 	@FXML
 	public void optionenButtonPushed() {
-		System.out.println("optionen");
 	}
 
 	@FXML

@@ -3,11 +3,14 @@ Tetrissteinerstellung 	-> Test schreiben
 DONE - Farben konfigurieren über Spring Beans xml
 DONE - Grid für den Hintergrund
 Timer wie lange das Spiel schon läuft											}
-Punktesystem																	}
-Ticker welcher den Stein bewegt um einen Blocksize nach einer bestimmten Zeit	} -> Sollten alle in der GameConfig enthalten und geupdatet werden über Controller
-Level integrieren welches auch den Ticker und die Punkte verbessert				}
+DONE Punktesystem																	}
+DONE Ticker welcher den Stein bewegt um einen Blocksize nach einer bestimmten Zeit	} -> Sollten alle in der GameConfig enthalten und geupdatet werden über Controller
+DONE Level integrieren welches auch den Ticker und die Punkte verbessert				}
 DONE Volle Lines entfernen -> alle Blöcke entfernen, von den vollen Lines und auch damit im Layout. -> Dann das Array nochmal durchgehen und jede volle Line in eine neues Array packen und dabei den Indexsprng merken also zum Beispiel von 4 zu 1  -> blocksize * 3 -> translate y (60) muss der Block verschoben werden
 DONE Rotation integrieren mit "Space"-Taste rotieren und Rotationspunkt in Spring Beans xml veränderbar
 DONE logging
-Tetrissteine in eine extra Config-XML packen -> da sonst beim erstellen eines neuen Steins immer auch alle anderen Beans unnötigerweise neu geladen werden
+DONE Tetrissteine in eine extra Config-XML packen -> da sonst beim erstellen eines neuen Steins immer auch alle anderen Beans unnötigerweise neu geladen werden
 JUNIT 4 zu JUNIT 5 umstellen
+LVL und timer anzeige
+Aufhübschen der Gui (Animations???)
+After hitting collision some time to rotate or move object??

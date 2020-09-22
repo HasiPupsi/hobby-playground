@@ -568,3 +568,300 @@
 2020-09-17 11:14:45.583 INFO  Starter:23 - Starte Tetris
 2020-09-17 11:14:45.583 INFO  Starter:24 - Erstelle Context und Beans...
 2020-09-17 11:14:45.861 INFO  Starter:39 - #####################################
+2020-09-22 10:43:23.947 INFO  Starter:22 - #####################################
+2020-09-22 10:43:23.950 INFO  Starter:23 - Starte Tetris
+2020-09-22 10:43:23.952 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 10:43:24.367 INFO  Starter:34 - #####################################
+2020-09-22 10:44:21.305 INFO  Starter:22 - #####################################
+2020-09-22 10:44:21.307 INFO  Starter:23 - Starte Tetris
+2020-09-22 10:44:21.309 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 10:44:21.666 INFO  Starter:34 - #####################################
+2020-09-22 10:44:34.255 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 10:44:34.255 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 10:44:34.257 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 10:44:34.258 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 10:44:34.307 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 10:44:34.310 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 10:44:34.334 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 10:44:34.334 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 10:44:42.358 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:44:46.661 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:44:49.195 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:44:51.425 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:44:55.702 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:01.504 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:04.235 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:06.322 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:08.496 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:11.519 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:19.336 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:27.182 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:29.730 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:34.345 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:36.317 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:39.333 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:41.503 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:44.662 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:46.878 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:50.77 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:45:58.158 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:00.532 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:06.826 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:09.456 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:11.618 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:14.379 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:16.79 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:18.727 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:21.947 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:24.482 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:26.615 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:28.477 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:36.714 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:46.130 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:48.424 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:52.736 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:55.605 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:57.219 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:46:59.837 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:04.345 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:08.618 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:10.497 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:13.814 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:16.90 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:18.244 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:22.700 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:25.143 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:27.87 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:31.718 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:35.944 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:37.932 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:44.936 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:49.233 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:53.715 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:47:57.763 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:05.124 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:08.628 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:10.597 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:13.72 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:15.262 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:19.754 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:22.62 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:24.374 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:27.126 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:29.773 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:32.129 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:33.895 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:35.991 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:38.638 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:40.937 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:42.901 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:44.429 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:49.373 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:53.226 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:48:58.622 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:00.880 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:03.183 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:03.277 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:03.307 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.375 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.478 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.534 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.663 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.678 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.781 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.862 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.919 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:04.998 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.22 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.101 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.158 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.182 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.246 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.343 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.406 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.423 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 10:49:05.502 WARN  PointHandler:30 - Es können nur maximal 4 Lines gleichzeitig entfernt werden (0)
+2020-09-22 11:03:26.305 INFO  Starter:22 - #####################################
+2020-09-22 11:03:26.307 INFO  Starter:23 - Starte Tetris
+2020-09-22 11:03:26.309 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 11:03:26.664 INFO  Starter:34 - #####################################
+2020-09-22 11:03:37.3 INFO  Starter:22 - #####################################
+2020-09-22 11:03:37.5 INFO  Starter:23 - Starte Tetris
+2020-09-22 11:03:37.7 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 11:03:37.340 INFO  Starter:34 - #####################################
+2020-09-22 11:03:39.676 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 11:03:39.676 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 11:03:39.678 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 11:03:39.680 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 11:03:39.723 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 11:03:39.726 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 11:03:39.748 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 11:03:39.748 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 11:46:27.670 INFO  Starter:22 - #####################################
+2020-09-22 11:46:27.673 INFO  Starter:23 - Starte Tetris
+2020-09-22 11:46:27.675 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 11:46:28.12 INFO  Starter:34 - #####################################
+2020-09-22 11:46:29.609 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 11:46:29.610 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 11:46:29.611 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 11:46:29.613 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 11:46:29.660 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 11:46:29.663 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 11:46:29.685 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 11:46:29.685 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 11:48:57.647 INFO  Starter:22 - #####################################
+2020-09-22 11:48:57.650 INFO  Starter:23 - Starte Tetris
+2020-09-22 11:48:57.651 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 11:48:57.999 INFO  Starter:34 - #####################################
+2020-09-22 11:49:00.600 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 11:49:00.601 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 11:49:00.603 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 11:49:00.605 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 11:49:00.661 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 11:49:00.666 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 11:49:00.690 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 11:49:00.691 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 12:05:56.494 INFO  Starter:22 - #####################################
+2020-09-22 12:05:56.496 INFO  Starter:23 - Starte Tetris
+2020-09-22 12:05:56.499 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 12:05:56.833 INFO  Starter:34 - #####################################
+2020-09-22 12:06:03.702 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 12:06:03.702 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 12:06:03.704 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 12:06:03.705 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 12:06:03.746 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 12:06:03.748 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 12:06:03.769 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 12:06:03.769 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 12:06:36.348 INFO  Starter:22 - #####################################
+2020-09-22 12:06:36.350 INFO  Starter:23 - Starte Tetris
+2020-09-22 12:06:36.352 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 12:06:36.674 INFO  Starter:34 - #####################################
+2020-09-22 12:06:38.228 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 12:06:38.229 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 12:06:38.230 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 12:06:38.232 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 12:06:38.276 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 12:06:38.280 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 12:06:38.303 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 12:06:38.303 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 12:07:34.15 INFO  Starter:22 - #####################################
+2020-09-22 12:07:34.17 INFO  Starter:23 - Starte Tetris
+2020-09-22 12:07:34.19 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 12:07:34.335 INFO  Starter:34 - #####################################
+2020-09-22 12:07:37.180 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 12:07:37.181 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 12:07:37.182 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 12:07:37.184 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 12:07:37.225 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 12:07:37.228 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 12:07:37.250 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 12:07:37.250 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 13:31:24.604 INFO  Starter:22 - #####################################
+2020-09-22 13:31:24.607 INFO  Starter:23 - Starte Tetris
+2020-09-22 13:31:24.610 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 13:31:24.943 INFO  Starter:34 - #####################################
+2020-09-22 13:31:52.953 INFO  Starter:22 - #####################################
+2020-09-22 13:31:52.956 INFO  Starter:23 - Starte Tetris
+2020-09-22 13:31:52.958 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 13:31:53.301 INFO  Starter:34 - #####################################
+2020-09-22 13:31:54.740 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 13:31:54.740 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 13:31:54.742 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 13:31:54.743 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 13:31:54.784 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 13:31:54.787 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 13:31:54.809 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 13:31:54.810 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 14:46:27.476 INFO  Starter:22 - #####################################
+2020-09-22 14:46:27.479 INFO  Starter:23 - Starte Tetris
+2020-09-22 14:46:27.480 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 14:46:27.828 INFO  Starter:34 - #####################################
+2020-09-22 14:47:29.118 INFO  Starter:22 - #####################################
+2020-09-22 14:47:29.120 INFO  Starter:23 - Starte Tetris
+2020-09-22 14:47:29.122 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 14:47:29.472 INFO  Starter:34 - #####################################
+2020-09-22 14:47:31.111 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 14:47:31.111 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 14:47:31.113 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 14:47:31.114 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 14:47:31.156 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 14:47:31.159 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 14:47:31.179 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 14:47:31.179 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 14:50:44.110 INFO  Starter:22 - #####################################
+2020-09-22 14:50:44.113 INFO  Starter:23 - Starte Tetris
+2020-09-22 14:50:44.113 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 14:50:44.602 INFO  Starter:34 - #####################################
+2020-09-22 14:50:48.762 INFO  Starter:22 - #####################################
+2020-09-22 14:50:48.766 INFO  Starter:23 - Starte Tetris
+2020-09-22 14:50:48.767 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 14:50:49.306 INFO  Starter:34 - #####################################
+2020-09-22 14:50:52.490 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 14:50:52.490 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 14:50:52.492 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 14:50:52.494 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 14:50:52.554 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 14:50:52.560 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 14:50:52.598 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 14:50:52.598 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 14:53:03.647 INFO  Starter:22 - #####################################
+2020-09-22 14:53:03.651 INFO  Starter:23 - Starte Tetris
+2020-09-22 14:53:03.652 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 14:53:04.177 INFO  Starter:34 - #####################################
+2020-09-22 14:53:06.573 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 14:53:06.573 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 14:53:06.575 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 14:53:06.577 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 14:53:06.639 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 14:53:06.643 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 14:53:06.671 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 14:53:06.672 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 14:55:04.11 INFO  Starter:22 - #####################################
+2020-09-22 14:55:04.13 INFO  Starter:23 - Starte Tetris
+2020-09-22 14:55:04.14 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 14:55:04.339 INFO  Starter:34 - #####################################
+2020-09-22 14:55:06.96 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 14:55:06.96 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 14:55:06.98 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 14:55:06.99 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 14:55:06.143 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 14:55:06.147 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 14:55:06.167 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 14:55:06.168 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 15:01:35.833 INFO  Starter:22 - #####################################
+2020-09-22 15:01:35.836 INFO  Starter:23 - Starte Tetris
+2020-09-22 15:01:35.838 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 15:01:36.168 INFO  Starter:34 - #####################################
+2020-09-22 15:01:38.70 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 15:01:38.70 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 15:01:38.71 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 15:01:38.72 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 15:01:38.117 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 15:01:38.120 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 15:01:38.143 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 15:01:38.143 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 15:07:29.790 INFO  Starter:22 - #####################################
+2020-09-22 15:07:29.793 INFO  Starter:23 - Starte Tetris
+2020-09-22 15:07:29.794 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 15:07:30.157 INFO  Starter:34 - #####################################
+2020-09-22 15:07:33.761 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 15:07:33.761 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 15:07:33.763 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 15:07:33.764 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 15:07:33.809 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 15:07:33.811 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 15:07:33.835 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 15:07:33.835 INFO  MainMenuLayoutController:54 - #####################################
+2020-09-22 15:11:15.811 INFO  Starter:22 - #####################################
+2020-09-22 15:11:15.814 INFO  Starter:23 - Starte Tetris
+2020-09-22 15:11:15.815 INFO  Starter:24 - Erstelle Context und Beans...
+2020-09-22 15:11:16.161 INFO  Starter:34 - #####################################
+2020-09-22 15:11:17.777 INFO  FieldGrid:43 - Initialisiere Fieldgrid.
+2020-09-22 15:11:17.777 INFO  FieldGrid:45 - Erstelle vertikale Linien
+2020-09-22 15:11:17.779 INFO  FieldGrid:52 - Erstelle horizontale Linien
+2020-09-22 15:11:17.780 INFO  FieldGrid:59 - Fieldgrid initialisiert.
+2020-09-22 15:11:17.821 INFO  MainMenuLayoutController:40 - Lade Spiellayout...
+2020-09-22 15:11:17.824 INFO  MainMenuLayoutController:43 - Initialisierunge Gamecontroller...
+2020-09-22 15:11:17.844 INFO  MainMenuLayoutController:53 - Spiel erfolgreich gestartet.
+2020-09-22 15:11:17.844 INFO  MainMenuLayoutController:54 - #####################################

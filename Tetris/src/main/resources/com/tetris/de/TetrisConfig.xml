@@ -17,7 +17,7 @@
 	<!-- Standard Properties END-->
 
 	<bean id="dataModel" class="com.tetris.de.model.GameDataModel">
-		<constructor-arg ref="gameConfig" />
+		<constructor-arg ref="config" />
 		<constructor-arg>
 			<bean id="startPointBausteine" class="java.awt.Point">
 				<constructor-arg index="0" type="int" value="0" />
@@ -26,11 +26,18 @@
 		</constructor-arg>
 	</bean>
 
-	<bean id="gameConfig" class="com.tetris.de.GameConfig" scope="prototype">
-		<constructor-arg index="0" ref="tetrisSteine" />
-		<constructor-arg index="1" value="${startSpeed}" />
+	<bean id="config" class="com.tetris.de.Config" scope="prototype">
+		<constructor-arg index="0" ref="gameConfig" />
+		<constructor-arg index="1" ref="tetrisSteine" />
 		<constructor-arg index="2" ref="fieldGrid" />
 		<constructor-arg index="3" ref="pointhandler" />
+	</bean>
+
+	<bean id="gameConfig" class="com.tetris.de.GameConfig" init-method="init" scope="prototype">
+		<constructor-arg index="0" value="${startSpeed}" />
+		<constructor-arg index="1" value="${startPeriod}"/>
+		<constructor-arg index="2" value="${numberOfLinesClearedToLvlUp}" />
+		<constructor-arg index="3" value="${maxLvl}" />
 	</bean>
 
 	<bean id="pointhandler" class="com.tetris.de.handler.PointHandler">

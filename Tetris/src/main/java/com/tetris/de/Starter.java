@@ -22,23 +22,16 @@ public class Starter extends javafx.application.Application {
 		logger.info("#####################################");
 		logger.info("Starte Tetris");
 		logger.info("Erstelle Context und Beans...");
-//		try (ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("com/tetris/de/TetrisConfig.xml")) {
 		FXMLLoader loader = new FXMLLoader(getClass().getResource("MainMenuLayout.fxml"));
 		Pane root = loader.load();
 
-//			MainDataModel dataModel = ctx.getBean(MainDataModel.class);
-//			MainMenuLayoutController controller = loader.getController();
-//			controller.initModel(dataModel);
 		Scene scene = new Scene(root);
 		primaryStage.setMinWidth(Const.MINWIDTH);
 		primaryStage.setMinHeight(Const.MINHEIGHT);
 		primaryStage.setTitle("Hello World");
 		primaryStage.setScene(scene);
 		primaryStage.show();
-//			logger.info("Spiel erfolgreich gestartet.");
 		logger.info("#####################################");
-//		}
-
 	}
 
 }

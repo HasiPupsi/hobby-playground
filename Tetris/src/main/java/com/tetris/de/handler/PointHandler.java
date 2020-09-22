@@ -27,7 +27,9 @@ public class PointHandler {
 		if (numberOfLinesRemoved > 0 && numberOfLinesRemoved <= 4) {
 			points += pointsForNumberOfLines.get(numberOfLinesRemoved) * (currentLvl + 1);
 		} else {
-			this.logger.warn("Es können nur maximal 4 Lines gleichzeitig entfernt werden (" + numberOfLinesRemoved + ")");
+			if (numberOfLinesRemoved != 0) {
+				this.logger.warn("Es können nur maximal 4 Lines gleichzeitig entfernt werden (" + numberOfLinesRemoved + ")");
+			}
 		}
 	}
 

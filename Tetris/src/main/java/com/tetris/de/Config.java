@@ -4,17 +4,17 @@ import java.util.List;
 
 import com.tetris.de.handler.PointHandler;
 
-public class GameConfig {
+public class Config {
 
 	private List<String> stonesAvailableList;
-	private int startSpeed;
+	private GameConfig gameConfig;
 	private FieldGrid fieldGrid;
 	private PointHandler pointHandler;
 
-	public GameConfig(List<String> stonesAvailableList, int startSpeed, FieldGrid fieldGrid, PointHandler pointhandler) {
+	public Config(GameConfig gameConfig, List<String> stonesAvailableList, FieldGrid fieldGrid, PointHandler pointhandler) {
+		this.gameConfig = gameConfig;
 		this.stonesAvailableList = stonesAvailableList;
 		this.fieldGrid = fieldGrid;
-		this.startSpeed = startSpeed;
 		this.pointHandler = pointhandler;
 	}
 
@@ -22,12 +22,8 @@ public class GameConfig {
 		return stonesAvailableList;
 	}
 
-	public void setStartSpeed(int startSpeed) {
-		this.startSpeed = startSpeed;
-	}
-
-	public int getStartSpeed() {
-		return startSpeed;
+	public GameConfig getGameConfig() {
+		return gameConfig;
 	}
 
 	public int getBlockSize() {

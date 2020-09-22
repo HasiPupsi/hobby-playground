@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import com.tetris.de.GameConfig;
+import com.tetris.de.Config;
 import com.tetris.de.TetrisStone;
 
 public class GameDataModel {
@@ -14,15 +14,15 @@ public class GameDataModel {
 	private Point startPointBausteine;
 	private Optional<TetrisStone> currentTetrisStone = Optional.empty();
 	private List<TetrisStone> allTetrisStoneInGame = new ArrayList<>();
-	private GameConfig gameConfig;
+	private Config config;
 
-	public GameDataModel(GameConfig gameConfig, Point startPointBausteine) {
-		this.gameConfig = gameConfig;
+	public GameDataModel(Config gameConfig, Point startPointBausteine) {
+		this.config = gameConfig;
 		this.startPointBausteine = startPointBausteine;
 	}
 
-	public GameConfig getGameConfig() {
-		return gameConfig;
+	public Config getConfig() {
+		return config;
 	}
 
 	public Point2D getStartPointBausteine() {
@@ -43,7 +43,7 @@ public class GameDataModel {
 
 	public void addTetrisStone(TetrisStone tetrisStone) {
 		this.allTetrisStoneInGame.add(tetrisStone);
-		this.gameConfig.getFieldGrid().addTetrisStone(tetrisStone);
+		this.config.getFieldGrid().addTetrisStone(tetrisStone);
 	}
 
 }
