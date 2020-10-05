@@ -3,6 +3,7 @@ package com.tetris.de;
 import org.apache.log4j.Logger;
 
 import com.tetris.de.constant.Const;
+import com.tetris.de.controller.MainMenuLayoutController;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -22,8 +23,10 @@ public class Starter extends javafx.application.Application {
 		logger.info("#####################################");
 		logger.info("Starte Tetris");
 		logger.info("Erstelle Context und Beans...");
-		FXMLLoader loader = new FXMLLoader(getClass().getResource("MainMenuLayout.fxml"));
+		FXMLLoader loader = new FXMLLoader(getClass().getResource("MainMenuVs.fxml"));
 		Pane root = loader.load();
+		MainMenuLayoutController controller = loader.getController();
+		controller.init();
 
 		Scene scene = new Scene(root);
 		primaryStage.setMinWidth(Const.MINWIDTH);

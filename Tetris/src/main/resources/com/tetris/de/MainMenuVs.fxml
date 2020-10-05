@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.tetris.de.controller.MainMenuLayoutController">
+   <center>
+      <GridPane BorderPane.alignment="CENTER">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="startBtn" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#startButtonPushed" onMouseEntered="#mouseEnteredStart" onMouseExited="#mouseExited" style="-fx-background-color: #00FF00;" text="Spiel starten" textFill="#ff0101">
+               <GridPane.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </GridPane.margin>
+               <font>
+                  <Font size="27.0" />
+               </font>
+               <effect>
+                  <Glow level="0.45" />
+               </effect>
+            </Button>
+            <Button fx:id="optionBtn" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#optionenButtonPushed" onMouseEntered="#mouseEnteredOption" onMouseExited="#mouseExited" style="-fx-background-color: #00FF00;" text="Optionen" textFill="RED" GridPane.rowIndex="1">
+               <GridPane.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </GridPane.margin>
+               <font>
+                  <Font size="27.0" />
+               </font>
+               <effect>
+                  <Glow level="0.45" />
+               </effect>
+            </Button>
+            <Button fx:id="closeBtn" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#beendenButtonPushed" onMouseEntered="#mouseEnteredClose" onMouseExited="#mouseExited" style="-fx-background-color: #00FF00;" text="Beenden" textFill="RED" GridPane.rowIndex="2">
+               <GridPane.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </GridPane.margin>
+               <font>
+                  <Font size="27.0" />
+               </font>
+               <effect>
+                  <Glow level="0.45" />
+               </effect>
+            </Button>
+         </children>
+         <padding>
+            <Insets bottom="30.0" left="50.0" right="50.0" top="30.0" />
+         </padding>
+         <effect>
+            <DropShadow />
+         </effect>
+      </GridPane>
+   </center>
+   <effect>
+      <Lighting diffuseConstant="1.02" specularConstant="1.42" specularExponent="40.0" surfaceScale="2.08">
+         <bumpInput>
+            <Shadow />
+         </bumpInput>
+         <light>
+            <Light.Distant />
+         </light>
+      </Lighting>
+   </effect>
+</BorderPane>
